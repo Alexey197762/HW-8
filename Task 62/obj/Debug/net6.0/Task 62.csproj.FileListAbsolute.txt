@@ -1,0 +1,15 @@
+D:\HW Seminar 8\Task 62\bin\Debug\net6.0\Task 62.exe
+D:\HW Seminar 8\Task 62\bin\Debug\net6.0\Task 62.deps.json
+D:\HW Seminar 8\Task 62\bin\Debug\net6.0\Task 62.runtimeconfig.json
+D:\HW Seminar 8\Task 62\bin\Debug\net6.0\Task 62.dll
+D:\HW Seminar 8\Task 62\bin\Debug\net6.0\Task 62.pdb
+D:\HW Seminar 8\Task 62\obj\Debug\net6.0\Task 62.csproj.AssemblyReference.cache
+D:\HW Seminar 8\Task 62\obj\Debug\net6.0\Task 62.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW Seminar 8\Task 62\obj\Debug\net6.0\Task 62.AssemblyInfoInputs.cache
+D:\HW Seminar 8\Task 62\obj\Debug\net6.0\Task 62.AssemblyInfo.cs
+D:\HW Seminar 8\Task 62\obj\Debug\net6.0\Task 62.csproj.CoreCompileInputs.cache
+D:\HW Seminar 8\Task 62\obj\Debug\net6.0\Task 62.dll
+D:\HW Seminar 8\Task 62\obj\Debug\net6.0\refint\Task 62.dll
+D:\HW Seminar 8\Task 62\obj\Debug\net6.0\Task 62.pdb
+D:\HW Seminar 8\Task 62\obj\Debug\net6.0\Task 62.genruntimeconfig.cache
+D:\HW Seminar 8\Task 62\obj\Debug\net6.0\ref\Task 62.dll
